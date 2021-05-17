@@ -1,1 +1,3 @@
-"# django-websockets-and-channels" 
+# Django Chat App
+# "django-websockets-and-channels" 
+
